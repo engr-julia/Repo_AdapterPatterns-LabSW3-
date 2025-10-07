@@ -16,9 +16,9 @@ You are developing a school management application that helps administrators man
 - **GradingSystemAdapter** – An adapter for integrating the grading system into the school management application. It adapts the `GradingSystem` to the `SchoolManagementApp` interface, translating `integrateSystem()` to `recordGrades()`.  
 - **LibrarySystemAdapter** – An adapter for integrating the library management system into the school management application. It adapts the `LibrarySystem` to the `SchoolManagementApp` interface, translating `integrateSystem()` to `manageBooks()`.
 
-## 📊 UML Diagram  
+## 📊 UML Diagram
 
-You can view the UML diagram here:  
-[📄 View UML Diagram (PDF)](https://github.com/engr-julia/Repo_AdapterPatterns-LabSW3-/blob/main/AdapterPatternUML(SW3).jpeg)
+![Adapter Pattern UML](https://github.com/engr-julia/Repo_AdapterPatterns-LabSW3-/blob/main/AdapterPatternUML(SW3).jpeg?raw=true)
+
 
 ---
