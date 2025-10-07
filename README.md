@@ -19,6 +19,6 @@ You are developing a school management application that helps administrators man
 ## 📊 UML Diagram  
 
 You can view the UML diagram here:  
-[📄 View UML Diagram (PDF)](https://github.com/engr-julia/Repo_AdapterPatterns-LabSW3-/blob/main/AdapterPatternUML(SW3).pdf)
+[📄 View UML Diagram (PDF)](https://github.com/engr-julia/Repo_AdapterPatterns-LabSW3-/blob/main/AdapterPatternUML(SW3).jpeg)
 
 ---
