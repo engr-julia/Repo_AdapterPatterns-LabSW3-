@@ -14,6 +14,9 @@ You are developing a school management application that helps administrators man
 ### Adapter Objects:
 - **AttendanceSystemAdapter** – An adapter for integrating the attendance system into the school management application. It adapts the `AttendanceSystem` to the `SchoolManagementApp` interface, translating `integrateSystem()` to `markAttendance()`.  
 - **GradingSystemAdapter** – An adapter for integrating the grading system into the school management application. It adapts the `GradingSystem` to the `SchoolManagementApp` interface, translating `integrateSystem()` to `recordGrades()`.  
-- **LibrarySystemAdapter** – An adapter for integrating the library management system into the school management application. It adapts the `LibrarySystem` to the `SchoolManagementApp` interface, translating `integrateSystem()` to `manageBooks()`.  
+- **LibrarySystemAdapter** – An adapter for integrating the library management system into the school management application. It adapts the `LibrarySystem` to the `SchoolManagementApp` interface, translating `integrateSystem()` to `manageBooks()`.
+
+### UML Diagram
+![UML Diagram](https://github.com/engr-julia/Repo_CommandPatterns/blob/master/commandPattern/UML%20.jpeg?raw=true) 
 
 ---
